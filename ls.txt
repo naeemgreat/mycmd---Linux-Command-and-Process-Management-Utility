@@ -1,0 +1,5 @@
+total 48
+-rw-r--r-- 1 root root   128 Jan  9 11:23 example.txt
+-rw-r--r-- 1 root root     0 Jan 10 05:34 ls.txt
+-rwxr-xr-x 1 root root 21920 Jan 10 05:33 mycmd
+-rw-r--r-- 1 root root 19526 Jan 10 05:33 mycmd.c
