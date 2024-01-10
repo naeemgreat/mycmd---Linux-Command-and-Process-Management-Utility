@@ -20,3 +20,14 @@ Executes Linux commands in a pipeline, redirecting the output of cmd1 to the inp
 
 Usage:
 ./mycmd [command] [arguments/options]
+Error Handling:
+
+If an invalid command is provided, mycmd displays an error message explaining the issue.
+Suggestions for Improvement:
+
+Consider extending functionalities for more Linux commands.
+Enhance error messages for better user understanding.
+Optimize code for efficiency and clarity.
+Encourage contributions and improvements from the open-source community.
+Feel free to fork, contribute, and use mycmd for educational purposes and Linux command-line exploration.
+
